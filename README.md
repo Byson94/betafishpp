@@ -1,0 +1,2 @@
+# betafishpp
+Chess ai: Betafish++
